@@ -344,6 +344,7 @@ int prevOdmStatusIndex2 = -1;
 
 
 
+//Thing I was testing for something else I'll remove this eventually
 nn::act::PrincipalId pid;
 const size_t MAX_REQUESTS = 100;
 const size_t MAX_MESSAGES = 100;
